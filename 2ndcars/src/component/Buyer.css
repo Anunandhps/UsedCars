@@ -1,0 +1,29 @@
+
+.v{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-size: medium;
+} 
+
+.border{
+   position: relative;
+   top: 50px;
+   justify-content: center;
+   
+
+    
+}
+
+.Regcar{
+    height: 700px;
+    width: auto;
+    
+
+}
+
+.foim{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

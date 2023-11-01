@@ -1,0 +1,40 @@
+.card{
+    width: 18rem;
+}
+.Del{
+    height: 30px;
+    width: auto;
+}
+
+.cardnoinput{
+    width: 400px;
+}
+.cvv{
+    width: 100px;
+}
+.visa{
+    width: 170px;
+    height: auto;
+
+}
+
+    /* .mcv{
+        justify-content: space-around;
+    } */
+
+
+.upi{
+    width: 100px;
+    height: auto;
+}
+.allbuttonupi{
+
+    /* position: relative   ;
+    left: 100px; */ 
+    
+}
+
+.img{
+    width: 286px;
+    height: auto;
+}

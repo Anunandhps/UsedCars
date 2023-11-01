@@ -1,0 +1,18 @@
+.card{
+    width: 18rem;
+ 
+}
+
+
+.view{
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+
+}
+
+
+body {
+    /* background-image: url("https://images.pexels.com/photos/1843717/pexels-photo-1843717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-color: #cccccc; */
+   }
